@@ -3,6 +3,6 @@
 ##Business Understanding 
 We have been hired by Google to analyze twitter activity. Google wants to know what SXSW attendees thought about their brand and their products/services. 
 
-##Data Understanding & Analysis
+##Data Understanding & Ana}ysis
 
-![Applt Positive Tweets](images/Screenshot(66).png)
+![images]/(Screenshot(66).png)
