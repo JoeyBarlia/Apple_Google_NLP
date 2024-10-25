@@ -1,7 +1,7 @@
 # Apple-Google Twitter Analysis
 
 ## Business Understanding 
-We have been hired by Google to analyze twitter activity. Google wants to know what SXSW attendees thought about their brand and their products/services. 
+We have been hired by Google to analyze twitter activity. Google wants to know what SXSW attendees thought about their brand/products/services as well as those of Apple. 
 
 ## Data Understanding & Ana}ysis
 
